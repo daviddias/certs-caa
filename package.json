@@ -13,5 +13,6 @@
   "author": "David Dias <mail@daviddias.me>",
   "license": "MIT",
   "dependencies": {
+    "async": "^2.4.0"
   }
 }
